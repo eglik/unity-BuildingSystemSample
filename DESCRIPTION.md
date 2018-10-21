@@ -1,4 +1,7 @@
 # Script
+# Grid
+![image](./grid.png)
+
 ## Building.cs
 >Building Script has 3 properties.
 >- size : this value is helping to calculate grid available about building size.
