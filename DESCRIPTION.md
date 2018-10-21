@@ -1,6 +1,7 @@
 # Script
-# Grid
+# Grid Array
 ![image](./grid.png)
+> y is z.
 
 ## Building.cs
 >Building Script has 3 properties.
