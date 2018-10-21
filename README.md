@@ -8,4 +8,4 @@
 ![image](./image.gif)
 
 # Descrption
-[**description**](./DESCRIPTION.md)
+[**see more...**](./DESCRIPTION.md)
